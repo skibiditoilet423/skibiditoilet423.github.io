@@ -5,6 +5,9 @@
             "190.102.40.207",
             "190.102.40.207:26516",
             "jogar.redewarriors.com",
+            "play.redewarriors.com",
+            "51.222.245.24:25681",
+            "51.222.245.24"
             "redewarriors.com",
             "45.164.125.95"
         ]
